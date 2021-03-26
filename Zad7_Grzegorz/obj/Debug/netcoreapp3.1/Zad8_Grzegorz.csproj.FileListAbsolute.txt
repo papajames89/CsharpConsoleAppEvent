@@ -1,0 +1,13 @@
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\bin\Debug\netcoreapp3.1\Zad8_Grzegorz.exe
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\bin\Debug\netcoreapp3.1\Zad8_Grzegorz.deps.json
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\bin\Debug\netcoreapp3.1\Zad8_Grzegorz.runtimeconfig.json
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\bin\Debug\netcoreapp3.1\Zad8_Grzegorz.runtimeconfig.dev.json
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\bin\Debug\netcoreapp3.1\Zad8_Grzegorz.dll
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\bin\Debug\netcoreapp3.1\Zad8_Grzegorz.pdb
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\obj\Debug\netcoreapp3.1\Zad8_Grzegorz.AssemblyInfoInputs.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\obj\Debug\netcoreapp3.1\Zad8_Grzegorz.AssemblyInfo.cs
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\obj\Debug\netcoreapp3.1\Zad8_Grzegorz.csproj.CoreCompileInputs.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\obj\Debug\netcoreapp3.1\Zad8_Grzegorz.dll
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\obj\Debug\netcoreapp3.1\Zad8_Grzegorz.pdb
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\obj\Debug\netcoreapp3.1\Zad8_Grzegorz.genruntimeconfig.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad8_Grzegorz\Zad7_Grzegorz\Zad7_Grzegorz\obj\Debug\netcoreapp3.1\Zad8_Grzegorz.csprojAssemblyReference.cache
